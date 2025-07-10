@@ -108,6 +108,12 @@ Simulation and verification of the components are performed using Intel Quartus 
 - **Testbench Explanations:**
   - The testbenches are designed to follow the standard JTAG TAP controller state transitions, ensuring that the instructions are loaded and executed correctly. They simulate the behavior of the TAP controller and demonstrate how the boundary-scan cells capture and shift data.
 
-## License
+---
+## 👤 Author
 
-This project is licensed under the MIT License. Please see the `LICENSE` file for details.
+> GitHub: [xrddev](https://github.com/xrddev)
+
+
+## 📝 License
+
+Released under the [MIT License](LICENSE). Originally built as part of a university project.

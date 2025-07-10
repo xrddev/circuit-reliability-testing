@@ -90,8 +90,12 @@ This project implements the **JTAG 1149.1** standard, which is widely used for t
 2. Compile and simulate the provided VHDL code and testbenches.
 3. Analyze the simulation outputs to verify fault detection and circuit behavior.
 
-## License
+---
+## 👤 Author
 
-This project is licensed under the MIT License.
-# circuit-reliability-testing
-# circuit-reliability-testing
+> GitHub: [xrddev](https://github.com/xrddev)
+
+
+## 📝 License
+
+Released under the [MIT License](LICENSE). Originally built as part of a university project.

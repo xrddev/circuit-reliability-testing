@@ -110,3 +110,13 @@ The project addresses various fault scenarios, such as **stuck-at-one**, **stuck
 ## Simulation Results
 The project demonstrates the ability to generate a golden signature for a fault-free system and to detect faults when they occur. The compressed signature in the presence of faults differs from the golden signature, thus indicating faults in the circuit.
 
+---
+## 👤 Author
+
+> GitHub: [xrddev](https://github.com/xrddev)
+
+
+## 📝 License
+
+Released under the [MIT License](LICENSE). Originally built as part of a university project.
+

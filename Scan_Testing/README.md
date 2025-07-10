@@ -24,3 +24,13 @@ This project implements a **Scan Chain** methodology to test sequential digital 
 
 ## Simulation Results
 The simulation tests various input combinations in scan mode, shifts outputs for comparison, and detects logic errors such as **stuck-at** faults. The timing and correctness of the circuit are verified through detailed waveforms that show the behavior of the circuit under test. The simulation demonstrates the successful application of scan testing.
+
+---
+## 👤 Author
+
+> GitHub: [xrddev](https://github.com/xrddev)
+
+
+## 📝 License
+
+Released under the [MIT License](LICENSE). Originally built as part of a university project.
