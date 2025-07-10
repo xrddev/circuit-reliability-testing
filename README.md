@@ -4,6 +4,9 @@
 
 This repository contains three VHDL projects that implement advanced testing methodologies for digital circuits. These projects focus on **Scan Testing**, **LFSR-MISR (Built-In Self-Test)**, and **JTAG Boundary Scan** techniques to detect faults and ensure the reliability of circuits.
 
+> 📄 Each subproject is accompanied by a detailed PDF report, including design explanations, RTL schematics, and simulation results.
+
+
 ## Projects
 
 ### 1. **Scan Testing**
